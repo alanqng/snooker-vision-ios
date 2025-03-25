@@ -1,5 +1,6 @@
 import UIKit
 import Vision
+import CoreImage
 
 class DetectionViewController: UIViewController {
     private let cameraService = CameraService()
