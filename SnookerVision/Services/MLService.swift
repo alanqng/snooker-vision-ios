@@ -1,5 +1,6 @@
 import CoreML
 import Vision
+import CoreImage
 
 class MLService {
     private var model: VNCoreMLModel?
