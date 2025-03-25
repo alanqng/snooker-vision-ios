@@ -1,5 +1,6 @@
 import UIKit
 import Vision
+import QuartzCore
 
 class DetectionView: UIView {
     private let detectionLayer = CALayer()
