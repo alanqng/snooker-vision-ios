@@ -1,5 +1,6 @@
 import AVFoundation
 import CoreImage
+import UIKit
 
 class CameraService: NSObject {
     private var captureSession: AVCaptureSession?
